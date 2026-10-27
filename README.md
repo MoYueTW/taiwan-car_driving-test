@@ -1,9 +1,8 @@
-# 汽車筆試模擬考（115 新制）
+# 汽車駕照筆試模擬考（115 年新制）
 
-依 115 年 6 月 30 日起實施的汽車駕照筆試新制製作的刷題網頁，打開就能用，不需要安裝或註冊。
-(點我打開網站)[https://moyuetw.github.io/taiwan-car_driving-test/]
-或直接連結:
-https://moyuetw.github.io/taiwan-car_driving-test/
+**👉 立即使用：https://moyuetw.github.io/taiwan-driving-test/**
+
+依 115 年 6 月 30 日起實施的汽車駕照筆試新制製作的免費線上刷題網頁：公路局題庫 1,100 題、含危險感知影片題，打開就能用，不需要安裝或註冊。
 
 ## 考試規則（比照新制）
 
